@@ -20,26 +20,26 @@ The paper employed a consensus-based approach rather than a traditional systemat
 
 The output was a synthesis of 96 recommendations, later narrowed down to priority actions for immediate implementation.
 
-## Recommentions.
+## Recommendations.
 
-1. Systemic Failures in Pandemic Preparedness
-    • The COVID-19 pandemic exposed global unpreparedness, not just isolated weaknesses.
-    • Surveillance systems, coordination mechanisms, and response infrastructure were insufficient.
-2. Vaccine Inequity and Manufacturing Gaps
-    • Low- and middle-income countries (LMICs), particularly in Africa, contributed ~1% of vaccine production.
-    • Heavy reliance on imports delayed access and increased mortality risk.
-3. Weak Supply Chains and Coordination
-    • Global supply chains for vaccines and medical products were fragile and poorly coordinated.
-    • Delays in distribution and shortages were widespread.
-4. Underfunded Research and Development
-    • Influenza and respiratory pathogen research remain underfunded, limiting preparedness for future pandemics.
-5. Public Trust and Misinformation
-    • Vaccine hesitancy was driven by misinformation and poor communication, affecting uptake.
-6. Priority Recommendations Identified
-    • Strengthening global surveillance systems
-    • Establishing a global manufacturing and supply chain task force
-    • Expanding vaccine production capacity
-    • Improving public communication and trust-building
+1. **Systemic Failures in Pandemic Preparedness**
+    - The COVID-19 pandemic exposed global unpreparedness, not just isolated weaknesses.
+    - Surveillance systems, coordination mechanisms, and response infrastructure were insufficient.
+2. **Vaccine Inequity and Manufacturing Gaps**
+    - Low- and middle-income countries (LMICs), particularly in Africa, contributed ~1% of vaccine production.
+    - Heavy reliance on imports delayed access and increased mortality risk.
+3. **Weak Supply Chains and Coordination**
+    - Global supply chains for vaccines and medical products were fragile and poorly coordinated.
+    - Delays in distribution and shortages were widespread.
+4. **Underfunded Research and Development**
+    - Influenza and respiratory pathogen research remain underfunded, limiting preparedness for future pandemics.
+5. **Public Trust and Misinformation**
+    - Vaccine hesitancy was driven by misinformation and poor communication, affecting uptake.
+6. **Priority Recommendations Identified**
+    - Strengthening global surveillance systems
+    - Establishing a global manufacturing and supply chain task force
+    - Expanding vaccine production capacity
+    - Improving public communication and trust-building
 
 ### Implications
 
